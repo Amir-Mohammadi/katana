@@ -1,0 +1,10 @@
+{
+  "cSpell.words": [
+    "Gitlab",
+    "Microframework",
+    "envalid",
+    "noteable",
+    "timespan"
+  ],
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
